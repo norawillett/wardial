@@ -222,7 +222,6 @@ def wardial(hosts, **kwargs):
     ['208.97.176.235', '23.185.0.2', '142.250.72.174']
     '''
     # FIXME (Task 1):
-    # Implement this function.
     # You should create a new event loop,
     # and use this event loop to call the `_wardial_async` function.
     # Ensure that all of the kwargs parameters get passed to `_wardial_async`.
